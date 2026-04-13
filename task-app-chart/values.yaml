@@ -1,0 +1,3 @@
+appName: task-app
+replicaCount: 2
+image: maddudeepthi/task-app:v3
