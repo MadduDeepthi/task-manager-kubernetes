@@ -2,4 +2,4 @@ appName: task-app
 replicaCount: 2
 image: 
   repository: maddudeepthi/task-app
-  tag: v3
+  tag: v2
